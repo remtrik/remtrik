@@ -5,5 +5,5 @@
 </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.8; background: url('blob:https://github.com/4f5a9a7c-8ec9-4f62-93f7-e4bd731ef552
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 300vw; opacity: 0.8; background: url('https://github.com/remtrik/raw/main/78730004.jpg
 ');]{x0000}$}
