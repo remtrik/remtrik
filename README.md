@@ -26,6 +26,10 @@ Huawei Honor 7A 3/32 (Atomu)
 
 ---
 
+Irbis TW43
+
+---
+
 Xiaomi Redmi 7A 2/16 (Pine) 
 
 ~~Xiaomi Redmi Note 4X 4/64 (Mido)~~ - Bought only to exchange it for Xiaomi Redmi Note 7 and Samsung Galaxy S8 Snapdragon/Exynos
