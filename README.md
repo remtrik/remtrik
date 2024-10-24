@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 📱My devices
+## 📱My devices(this isn't a full list, full list will be over 500 entries)
 
 Apple iPhone 3GS
 
