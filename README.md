@@ -32,6 +32,8 @@ Irbis TW43
 
 Xiaomi Redmi 7A 2/16 (Pine) 
 
+Xiaomi Mi Note 2 3 3/16 (Virgo) 
+
 ~~Xiaomi Redmi Note 4X 4/64 (Mido)~~ - Bought only to exchange it for Xiaomi Redmi Note 7 and Samsung Galaxy S8 Snapdragon/Exynos
 
 Xiaomi Redmi Note 7 3/32 (Lavender) - No fingerprint scanner and back glass
