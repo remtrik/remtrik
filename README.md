@@ -14,6 +14,8 @@ Apple iPhone 5S White 1/32 - In theory nand is dead
 
 ~~Apple iPhone 6+ Pink 1/16~~ - Was sold
 
+Apple TV 2nd gen
+
 ---
 
 HP Elite X3 4/64 (butler)
