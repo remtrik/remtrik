@@ -52,6 +52,8 @@ Xiaomi Redmi POCO X3 Pro 8/256 (Vayu)
 
 Xiaomi Redmi POCO F3 8/256
 
+Xiaomi Redmi POCO M6 Pro 12/512 Black
+
 ---
 
 Realme C30 3/32 Blue
