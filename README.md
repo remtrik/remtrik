@@ -50,7 +50,9 @@ Xiaomi Redmi POCO X3 NFC 6/128 (Surya)
 
 Xiaomi Redmi POCO M3 4/64
 
-Xiaomi Redmi POCO X3 Pro 8/256 (Vayu)
+Xiaomi Redmi POCO X3 Pro 8/256 (Vayu) - White
+
+Xiaomi Redmi POCO X3 Pro 8/256 (Vayu) - Black
 
 Xiaomi Redmi POCO F3 8/256
 
