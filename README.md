@@ -28,7 +28,7 @@ Huawei Honor 7A 3/32 (Atomu)
 
 ---
 
-Irbis TW43
+~~Irbis TW43~~ - died
 
 ---
 
@@ -80,9 +80,13 @@ Samsung Galaxy J2 White - no display
 
 ~~Samsung Galaxy A30S White 3/32~~ - Was sold
 
+Samsung Galaxy A30S Blue 3/32
+
 Samsung Galaxy S8 Snapdragon (Dreamqlte) 4/64 half bricked, looks like panel is powered, but no splash or download
 
 Samsung Galaxy S8 Exynos (Dreamlte) 4/64 - same phone as snapdragon ver, but panel is dead, and board is LDU, so i don't have modem in it
+
+Samsung Galaxy A16
 
 ---
 
